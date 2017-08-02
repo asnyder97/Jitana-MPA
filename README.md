@@ -47,6 +47,7 @@ Add Linkers
 
 **Step Five**
 Change information in the following files:
+
 	1. In config.properties:
 		a. HOME_FOLDER should be equal to the folder that you saved the project to.
 		b. JITANA_IAC location of build/tools/jitana-iac
@@ -56,7 +57,9 @@ Change information in the following files:
 		b. change password attached to name.
 		
 **Step Six**
+
 Two inputs APKs are currently in folder.  You can change these to match the Applications that you are looking at.
+
 If you are looking for a static analysis then make the METHOD_GRAPH_LOCATION equal to $JITANA_IAC/output and it will use the graph and insn from IAC.
 																											
 
