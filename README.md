@@ -61,7 +61,9 @@ Change information in the following files:
 Two inputs APKs are currently in folder.  You can change these to match the Applications that you are looking at.
 
 If you are looking for a static analysis then make the METHOD_GRAPH_LOCATION equal to $JITANA_IAC/output and it will use the graph and insn from IAC.
-																											
 
-This project has a fun experience.  I currently do not have plans to contiune working on this, as I will be contiuning work on the [game](https://bitbucket.org/Totally_Real_Humans/dwarven_fisticuffs/wiki/Home) I am developing for my final project at Drury University.  [Mohannad Alhanahnah](https://github.com/mhammad2) will be contiuning work on this, making the system more robust and user friendly.
+
+
+
+### This project has a fun experience.  I currently do not have plans to contiune working on this, as I will be contiuning work on the [game](https://bitbucket.org/Totally_Real_Humans/dwarven_fisticuffs/wiki/Home) I am developing for my final project at Drury University.  [Mohannad Alhanahnah](https://github.com/mhammad2) will be contiuning work on this, making the system more robust and user friendly.
 
