@@ -19,9 +19,7 @@ using namespace mysqlpp;
 
 Connection connectionDB(char *user, char *password)
 {
-	//WARNING!
-	//Connection to DB  - need to change the input information - Password
-	//   should not be in this file.
+	//Connection to DB
 	Connection conn(true);
 
 	//Attempts to connect to local database.
