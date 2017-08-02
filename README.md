@@ -65,5 +65,5 @@ If you are looking for a static analysis then make the METHOD_GRAPH_LOCATION equ
 
 
 
-### This project has a fun experience.  I currently do not have plans to contiune working on this, as I will be contiuning work on the [game](https://bitbucket.org/Totally_Real_Humans/dwarven_fisticuffs/wiki/Home) I am developing for my final project at Drury University.  [Mohannad Alhanahnah](https://github.com/mhammad2) will be contiuning work on this, making the system more robust and user friendly.
+### This project has a fun experience.  I currently do not have plans to contiune working on this, as I will be contiuning work on  [Dwaven Fist](https://bitbucket.org/Totally_Real_Humans/dwarven_fisticuffs/wiki/Home) that I am currently developing for my final project at Drury University.  [Mohannad Alhanahnah](https://github.com/mhammad2) will be working on this project, making the system more robust and user friendly.
 
