@@ -18,7 +18,7 @@ vector<string> blackListVector()
 {
 	vector<string> blackList;
 	ifstream bl;
-	bl.open("/home/andrew/srp/DMA/BlackList.txt");
+	bl.open("BlackList.txt");
 	while(!bl.eof())
 	{
 		string line;
