@@ -46,6 +46,7 @@ Add Linkers
 ```
 
 **Step Five**
+
 Change information in the following files:
 
 	1. In config.properties:
