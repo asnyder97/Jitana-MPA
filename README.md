@@ -27,13 +27,13 @@ sudo apt-get install libmysqlclient-dev libmysql++-dev libmysqlcppconn-dev
 
 Inlcude in libraries
 
-'''python
+'''
 /usr/include/mysql++
 /usr/include/mysql
 '''
 
 Add Linkers
 
-'''-lmysqlpp -lmysqlclient'''
+-lmysqlpp -lmysqlclient
 
 
