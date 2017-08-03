@@ -31,8 +31,10 @@ Clone and import project into eclipse.
 
 Installing [Mysql++](https://tangentsoft.com/mysqlpp/home)
 
+```
 sudo apt-get install mysql-server mysql-client
 sudo apt-get install libmysqlclient-dev libmysql++-dev libmysqlcppconn-dev
+```
 
 Inlcude in libraries
 ```
