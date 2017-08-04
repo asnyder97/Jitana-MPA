@@ -1,0 +1,5 @@
+getLastKnownLocation
+getDeviceId
+getLatitude
+getLongitude
+getSystemService
