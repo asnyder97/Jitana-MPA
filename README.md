@@ -25,7 +25,8 @@ Download [Jitana](https://github.com/ytsutano/jitana/tree/master)
 [Mysql Insatallation](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-16-04) on Ubuntu 16.04, if not already installed.
 
 Create cc mysql database and use [schema](https://github.com/asnyder97/Jitana-MPA/blob/master/db/schema) to create necassary tables.
-  Special note:  this schema and use of IC3 is thanks [SEALANT](https://softarch.usc.edu/sealant/).
+
+Special note:  this schema and use of IC3 is thanks to [SEALANT](https://softarch.usc.edu/sealant/).
 
 **Step Three**
 ---
